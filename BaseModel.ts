@@ -1,5 +1,5 @@
 import { Identifiable } from "@Core";
-
+//baseOpsModel
 export interface BaseModel extends Identifiable {
     Created?: Date;
     Updated?: Date;
